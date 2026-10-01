@@ -10,7 +10,7 @@
     <h1>CWA Help Desk Appointment</h1>
     <p>The Help Desk is located in ATC620. Open 10:30 to 19:00 Monday to Friday</p>
     <p>Check Blackboard for when CWA tutor will be there.</p>
-    <form method="post" action="#">
+    <form method="post" action="http://mercury.swin.edu.au/it000000/formtest.php">
         <fieldset>
             <legend>Student details</legend>
             <p><label for="Student ID"> Student ID</label>
@@ -68,7 +68,7 @@
             <fieldset>
                 <legend>Preferred Date/Time</legend>
                 <p><label>Date</label>
-                    <input type="date" name="bday" />
+                    <input type="text" name="date" id="date" placeholder="dd/mm/yyyy" pattern="\d{2}/\d{2}/\d{4}"  />
                 </p>
                 <p><label>Time</label>
                     <input type="text"name="time" id="time" placeholder="00:00" pattern="\d{2}:\d{2}" />
