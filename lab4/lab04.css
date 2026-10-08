@@ -1,0 +1,42 @@
+body {
+    border-left : 3px solid blue;
+    padding-left : 4px;
+}
+
+
+
+h1 {color : purple;
+
+}
+nav a {
+    
+    color:gray ;
+    border : 3px solid gray;
+
+    
+
+}
+aside p { 
+    font-style : italic;
+    margin-top : 0;
+        
+
+}
+h2{
+    color: teal;
+}
+h3{
+    color:red;
+}
+span {
+    color :orange;
+}
+table,th,td{
+    border:1px solid black;
+}
+a {
+    color : gray
+}
+#images{
+    text-align: center;
+}
