@@ -53,6 +53,7 @@ footer p:first-child { float: left; }
 footer p:nth-child(2) { text-align: center; }
 footer p:last-child { float: right; text-align: right; }
 
+aside p {display: inline-block;}
 
 
 
