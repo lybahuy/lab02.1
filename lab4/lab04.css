@@ -6,22 +6,22 @@ body {
 
 
 h1 {color : purple;
-
-}
-nav a {
-    
-    color:gray ;
-    border : 3px solid gray;
-
     
 
 }
-aside p { 
-    font-style : italic;
-    margin-top : 0;
-        
+aside :hover{
+    display:none;
+}
+nav a:hover  {
+    
+    background-color:  lightblue ;
+    border-color : darkblue;
+    
+
+    
 
 }
+
 h2{
     color: teal;
 }
