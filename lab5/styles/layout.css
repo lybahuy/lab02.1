@@ -53,11 +53,6 @@ footer p:first-child { float: left; }
 footer p:nth-child(2) { text-align: center; }
 footer p:last-child { float: right; text-align: right; }
 
-nav > p{
-    border: 50% 30px;
 
-
-    
-}
 
 
