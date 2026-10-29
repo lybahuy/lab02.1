@@ -56,4 +56,8 @@ footer p:last-child { float: right; text-align: right; }
 aside p {display: inline-block;}
 
 
+footer p{
+    border: 50
+}
+
 
